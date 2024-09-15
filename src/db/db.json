@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "1aba718d-d74a-4938-a242-213103da80d8",
+    "name": "Gordon Wilkinson",
+    "phone": "808-781-7555 x797",
+    "email": "Dahlia1@gmail.com",
+    "job": "District Assurance Architect"
+  },
+  {
+    "id": "92c1021c-26de-4438-b7ba-cd34a3744638",
+    "name": "Roberto Padberg-Rutherford",
+    "phone": "622-697-0894",
+    "email": "Callie_Denesik@gmail.com",
+    "job": "International Assurance Associate"
+  },
+  {
+    "id": "aeb3a204-8b8a-413d-9be9-32b3b4ed2e43",
+    "name": "Lillian Bode",
+    "phone": "732-285-5574",
+    "email": "Justina89@yahoo.com",
+    "job": "Corporate Intranet Producer"
+  },
+  {
+    "id": "5b018e7a-2803-4cfd-ae64-9dbf3362c660",
+    "name": "Johanna Runolfsdottir III",
+    "phone": "983.373.5185",
+    "email": "Mossie_Brekke@gmail.com",
+    "job": "Legacy Configuration Specialist"
+  },
+  {
+    "id": "e3eb5fd0-ddb4-4f8a-9dd1-3c78a252ce79",
+    "name": "Alice Reynolds",
+    "phone": "774-822-6466 x63708",
+    "email": "Kara.Hessel-Homenick@yahoo.com",
+    "job": "Future Markets Producer"
+  }
+]
